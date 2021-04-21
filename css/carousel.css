@@ -1,0 +1,32 @@
+.carousel{
+    margin-top: 80px;
+  }
+  .carousel-inner{
+    height: 250px;
+  }
+  .carousel-caption{
+    color: #000;
+    top: 50%;
+    text-align: justify;
+  }
+
+  .slider-background {
+    background-color: #ffffffa8;
+    padding: 8px 16px;
+    color: #1483E6;
+    border: 1px solid;
+    box-shadow: 5px 5px 5px #00000059;
+  }
+
+  .home-app-link40 {
+    margin-top: -209px;
+  }
+
+  .home-app-link36
+{text-align:center; margin-top:0px; margin-bottom: 0px; }
+
+  .home-center-image {
+    width: 100% !important; 
+    display:block; 
+    margin:-50px auto 0px auto;
+  }
