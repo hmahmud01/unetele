@@ -1,7 +1,10 @@
 <?php  
 
-session_start();
-if (isset($_SESSION['id']) && isset($_SESSION['username'])) {
+// session_start();
+// if (isset($_SESSION['id']) && isset($_SESSION['username'])) {
+
+// }
+
 include 'db.php';
 error_reporting(0);
 if(isset($_POST['submit'])){
@@ -26,7 +29,6 @@ if(isset($_POST['submit'])){
 	}else{
 		$error="Something is wrong! Please try again."; 
 	}
-}
 ?>
 <?php include 'inc/header.php'; ?>
 

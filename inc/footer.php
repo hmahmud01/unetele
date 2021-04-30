@@ -55,6 +55,9 @@
 <script src="js/jquery-3.5.1.min.js"></script> 
 <script src="js/bootstrap.min.js"></script>
 <script src="js/swiper-bundle.min.js"></script>
+<script>
+	$('.carousel-item').first().addClass('active')
+</script>
 <script src="js/custom.js"></script>
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
@@ -81,5 +84,6 @@
   logged_in_greeting="Hello! How can we help you?"
   logged_out_greeting="Hello! How can we help you?">
 </div>
+
 </body>
 </html>
