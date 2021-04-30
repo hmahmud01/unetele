@@ -28,7 +28,7 @@ $result = $conn->query($sql);
                     <div class="col-sm-4 col-md-4 col-lg-4 offset-md-4 offset-sm-4 offset-lg-4 mt-5">
                     <img class="home-center-image" src="images/medical-doctor-image-1.png" alt="logo">
 						<P class="home-app-link40">24/7 Medical Care, Anywhere</p>
-						<p class="home-app-link36"><a href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home-top" role="button" aria-pressed="true">Join Now</a></p>
+						<p class="home-app-link36"><a href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home-top" role="button" aria-pressed="true">Join Now</a></p>
                     </div>
                     <div class="col-sm-4 col-md-4 col-lg-4">
                     <div id="messagecarousel" class="carousel slide" data-ride="carousel">
@@ -357,7 +357,7 @@ $result = $conn->query($sql);
                     <div class="width-full div-home">
                         <ul class="list-how list-home">
                             <li><a class="" href="how-it-work.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Learn more</a></li>
-                            <li><a class="" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></i> Join Now</a></li>
+                            <li><a class="" href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></i> Join Now</a></li>
                         </ul>
                     </div>
                 </div>
@@ -403,7 +403,7 @@ $result = $conn->query($sql);
                             </ul>
                         </div>
                         <div class="card-text">
-                            <p class="home-app-link"><a href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home" role="button" aria-pressed="true">Join Now</a></p>
+                            <p class="home-app-link"><a href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home" role="button" aria-pressed="true">Join Now</a></p>
                         </div>
                     </div>
                 </div>

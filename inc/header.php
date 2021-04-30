@@ -65,9 +65,9 @@
 					
 					<div class="col-sm-12 col-md-12 col-lg-4 tps-login padding-zero-all paddin-zero">
 						<p class="top-phone2"> <span class="top-phone"> <i class="fa fa-phone" aria-hidden="true"></i> 866-809-2896</span>	
-						<a class="top-login" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Log in</a></p>
+						<a class="top-login" href="https://app.evisit.com/r/unteledoc/auth/LoginPage" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Log in</a></p>
 						<p class="top-phone2 top-phone25"> <span class="top-phone"> <i class="fa fa-phone" aria-hidden="true"></i> 866-809-2896</span></p>
-						<p class="top-phone2 top-phone24"> <a class="top-login" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Log in</a></p>
+						<p class="top-phone2 top-phone24"> <a class="top-login" href="https://app.evisit.com/r/unteledoc/auth/LoginPage" target="_blank"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Log in</a></p>
 					</div>
 				</div>
 				
