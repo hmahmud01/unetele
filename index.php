@@ -23,15 +23,18 @@ $result = $conn->query($sql);
 			</div>
 		</div>        
 		<div class="container-fluid home-top-style2">
-			<div class="container">
+			<div class="container-fluid">
                 <div class="row">
-                    <div class="col-sm-4 col-md-4 col-lg-4 offset-md-4 offset-sm-4 offset-lg-4 mt-5">
-                    <img class="home-center-image" src="images/medical-doctor-image-1.png" alt="logo">
-						<P class="home-app-link40">24/7 Medical Care, Anywhere</p>
+                    <div class="col-sm-4 col-md-4 col-lg-4 my-auto">
+                        <P class="home-app-link40">Affordable Medical Care, Anywhere</p>
+                    </div>
+                    <div class="col-sm-4 col-md-4 col-lg-4 mt-5">
+                        <img class="home-center-image" src="images/medical-doctor-image-1.png" alt="logo">
+						<!-- <P class="home-app-link40">24/7 Medical Care, Anywhere</p> -->
 						<p class="home-app-link36"><a href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home-top" role="button" aria-pressed="true">Join Now</a></p>
                     </div>
-                    <div class="col-sm-4 col-md-4 col-lg-4">
-                    <div id="messagecarousel" class="carousel slide" data-ride="carousel">
+                    <div class="col-sm-4 col-md-4 col-lg-4 my-auto">
+                        <div id="messagecarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <?php
                                 if ($result->num_rows > 0) {
@@ -42,7 +45,7 @@ $result = $conn->query($sql);
                                     <div class="carousel-caption">
                                         <div class="slider-background">
                                             <h3 class="text-right"><?php echo $row['title']; ?></h3>
-                                            <p><?php echo $row['detail']; ?></p>
+                                            <p class="text-dark"><?php echo $row['detail']; ?></p>
                                         </div>                                   
                                     </div>
                                 </div>
