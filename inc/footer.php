@@ -43,7 +43,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 ">
-				<p id="footer-info">Copyright © 2021 <b>United TeleDoc</b> all rights reserved. Developed by
+				<p id="footer-info">Copyright © 2021 <b>United TeleDoc</b> all rights reserved. Powered by <a href="">innsire.com</a>
 			 </p>
 			</div>
 		</div>
@@ -60,7 +60,7 @@
 </script>
 <script src="js/custom.js"></script>
 <!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
+<!-- <div id="fb-root"></div>
       <script>
         window.fbAsyncInit = function() {
           FB.init({
@@ -75,15 +75,16 @@
         js = d.createElement(s); js.id = id;
         js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
+      }(document, 'script', 'facebook-jssdk'));
+	  </script> -->
 
       <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
+      <!-- <div class="fb-customerchat"
         attribution="setup_tool"
         page_id="103057251830179"
   logged_in_greeting="Hello! How can we help you?"
   logged_out_greeting="Hello! How can we help you?">
-</div>
+</div> -->
 
 </body>
 </html>

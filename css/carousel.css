@@ -11,22 +11,27 @@
   }
 
   .slider-background {
-    background-color: #ffffffa8;
-    padding: 8px 16px;
+    background-color: #fff;
+    padding: 32px 16px;
     color: #1483E6;
     border: 1px solid;
     box-shadow: 5px 5px 5px #00000059;
   }
 
   .home-app-link40 {
-    margin-top: -209px;
+    margin-top: 0px;
   }
 
   .home-app-link36
-{text-align:center; margin-top:0px; margin-bottom: 0px; }
+{text-align:center; margin-top:-70px; margin-bottom: 0px; }
 
   .home-center-image {
-    width: 100% !important; 
-    display:block; 
-    margin:-50px auto 0px auto;
+    width: 70% !important;
+    display: block;
+    margin: 45px auto 0px auto;
+    overflow: hidden;
   }
+
+  .home-banner-top {
+    height: 768px;
+}
