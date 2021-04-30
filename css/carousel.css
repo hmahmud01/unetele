@@ -1,6 +1,4 @@
-.carousel{
-    margin-top: 80px;
-  }
+
   .carousel-inner{
     height: 250px;
   }
@@ -13,7 +11,7 @@
   .slider-background {
     background-color: #fff;
     padding: 32px 16px;
-    color: #1483E6;
+    color: #1E29C5;
     border: 1px solid;
     box-shadow: 5px 5px 5px #00000059;
   }

@@ -44,7 +44,7 @@ $result = $conn->query($sql);
                                 <div class="carousel-item">
                                     <div class="carousel-caption">
                                         <div class="slider-background">
-                                            <h3 class="text-right"><?php echo $row['title']; ?></h3>
+                                            <h3 class="text-center"><?php echo $row['title']; ?></h3>
                                             <p class="text-dark"><?php echo $row['detail']; ?></p>
                                         </div>                                   
                                     </div>
