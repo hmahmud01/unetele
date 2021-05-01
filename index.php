@@ -54,66 +54,17 @@ $result = $conn->query($sql);
                                 }
                                 ?>
                             </div>
-                            <a class="carousel-control-prev" href="" role="button" data-slide="prev">
+                            <a class="carousel-control-prev" href="#messagecarousel" role="button" data-slide="prev">
                                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                 <span class="sr-only">Previous</span>
                             </a>
-                            <a class="carousel-control-next" href="" role="button" data-slide="next">
+                            <a class="carousel-control-next" href="#messagecarousel" role="button" data-slide="next">
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="sr-only">Next</span>
                             </a>
                         </div>
                     </div>
                 </div>
-				<!-- <div class="row">
-					<div class="col-sm-12 col-md-12 col-lg-12">
-						<img class="home-top-image" src="images/medical-doctor-image-1.png" alt="logo">
-						<P class="home-app-link40">24/7 Medical Care, Anywhere</p>
-						<p class="home-app-link36"><a href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home-top" role="button" aria-pressed="true">Join Now</a></p>
-                        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                <div class="carousel-caption">
-                                    <h3>Mssage 1 Title</h3>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                                </div>
-                                </div>
-                                <div class="carousel-item">
-                                <div class="carousel-caption">
-                                    <h3>Mssage 2 Title</h3>
-                                    <p>It is a long established fact that a reader will be distracted by the readable conte</p>
-                                </div>
-                                </div>
-                                <div class="carousel-item">
-                                <div class="carousel-caption">
-                                    <h3>Mssage 3 Title</h3>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some for</p>
-                                </div>
-                                </div>
-                                <div class="carousel-item">
-                                <div class="carousel-caption">
-                                    <h3>Mssage 4 Title</h3>
-                                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old</p>
-                                </div>
-                                </div>
-                                <div class="carousel-item">
-                                <div class="carousel-caption">
-                                    <h3>Mssage 5 Title</h3>
-                                    <p>The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-                                </div>
-                                </div>
-                            </div>
-                            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div>
-					</div>
-				</div> -->
 			</div>
 		</div>
        </div>
