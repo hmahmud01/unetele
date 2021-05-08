@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
+	<link rel="stylesheet" href="css/translate_element.css">
 </head>
 <body>
 

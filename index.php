@@ -195,7 +195,7 @@ $result = $conn->query($sql);
                 <div class="width-full">
                     <ul class="list-how">
                         <li><a class="" href="what-we-treat.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Learn more</a></li>
-                        <li><a class="" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
+                        <li><a class="" href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
                     </ul>
                 </div>
             </div>
@@ -220,7 +220,7 @@ $result = $conn->query($sql);
                 <div class="width-full">
                     <ul class="list-how">
                         <li><a class="" href="what-we-treat.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Learn more</a></li>
-                        <li><a class="" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
+                        <li><a class="" href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
                     </ul>
                 </div>
             </div>
@@ -245,7 +245,7 @@ $result = $conn->query($sql);
                 <div class="width-full">
                     <ul class="list-how">
                         <li><a class="" href="what-we-treat.php"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Learn more</a></li>
-                        <li><a class="" href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
+                        <li><a class="" href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank"><i class="fa fa-stethoscope" aria-hidden="true"></i> See a Doctor</a></li>
                     </ul>
                 </div>
             </div>
@@ -369,7 +369,7 @@ $result = $conn->query($sql);
                 <p class="home-txt-one">Everyone should have access to quality healthcare. Without insurance our low-cost plan for limited time is $29.99/visit. </p>
                 <p class="second-til-home19" style="margin-top:65px;">Quote for <span class="how-span19">Business</span></p>
                 <p class="home-txt-one">Our teams are here to help you. Please call our friendly support team 239-330-4915 or 1-866-809-2896 for your business quote. </p>
-                <p class="home-app-link"><a href="https://app.evisit.com/r/unitedteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home" role="button" aria-pressed="true">Get Started</a></p>
+                <p class="home-app-link"><a href="https://app.evisit.com/r/unteledoc/auth/LoginPage?areaMode=registration" target="_blank" class="btn btn-primary btn-lg active new-how-but-home" role="button" aria-pressed="true">Get Started</a></p>
             </div>
         </div>
     </div>

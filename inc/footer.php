@@ -14,13 +14,14 @@
 				</div>
 				<div class="col-sm-12 col-md-3 col-lg-3 footer-wp-1">
 					<p><a href="#"><img class="footer-logo2" src="images/UnTeleDoc-Logo-200x58.png" alt="logo"></a></p>
-					<p class="footer-info" >© 2021 United TeleDoc. All Rights Reserved.</p>
+					<p class="footer-info" >© 2021 United TeleDoc Inc. All Rights Reserved.</p>
 					<p class="footer-info2" ><a href="#"><i class="fa fa-facebook-square footer-icon" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-twitter-square footer-icon" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-youtube-square footer-icon" aria-hidden="true"></i></a><a href=""><i class="footer-icon fa fa-instagram" aria-hidden="true"></i></a></p>
 				</div>
 				<div class="col-sm-12 col-md-3 col-lg-3 footer-wp-1">
 					<p class="footer-info title-center" >Download App</p>
 					<p><a href="https://apps.apple.com/app/id1541735208" target="_blank" ><img class="footer-app-logo"  src="images/App-Store-1-1536x455.png" alt="logo"></a></p>
 					<p><a href="https://play.google.com/store/apps/details?id=com.evisit.app.UnitedTeleDoc&hl=en&gl=US" target="_blank"><img class="footer-app-logo" src="images/google-play-badge.png" alt="logo"></a></p>
+					<div id="google_translate_element" class="title-center"></div>
 				</div>
 				<div class="col-sm-12 col-md-3 col-lg-3 footer-wp-1">
 					<p class="footer-info" >Address List</p>
@@ -43,7 +44,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 ">
-				<p id="footer-info">Copyright © 2021 <b>United TeleDoc</b> all rights reserved. Powered by <a href="">innsire.com</a>
+				<p id="footer-info">Copyright © 2021 <b>United TeleDoc Inc</b> all rights reserved.
 			 </p>
 			</div>
 		</div>
@@ -57,6 +58,12 @@
 	$('.carousel-item').first().addClass('active')
 </script>
 <script src="js/bootstrap.min.js"></script>
+<script src="js/translate.js"></script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script> 
 <script src="js/swiper-bundle.min.js"></script>
 
 <script src="js/custom.js"></script>
@@ -84,8 +91,8 @@
         attribution="setup_tool"
         page_id="103057251830179"
   logged_in_greeting="Hello! How can we help you?"
-  logged_out_greeting="Hello! How can we help you?">
-</div> -->
+  logged_out_greeting="Hello! How can we help you?"> -->
+</div>
 
 </body>
 </html>
