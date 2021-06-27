@@ -1,6 +1,7 @@
 
   .carousel-inner{
-    height: 250px;
+    /* height: 250px; */
+    min-height: 300px;
   }
   .carousel-caption{
     color: #000;
@@ -12,8 +13,15 @@
     background-color: #fff;
     padding: 32px 16px;
     color: #1E29C5;
-    border: 1px solid;
     box-shadow: 5px 5px 5px #00000059;
+    border-style: solid;
+    border-width: 9px 9px 9px 9px;
+    border-color: #FFFFFF;
+    border-radius: 9px 9px 9px 9px;
+  }
+
+  .slider-background h3{
+    font-size: 24px;
   }
 
   .home-app-link40 {
@@ -24,12 +32,181 @@
 {text-align:center; margin-top:-70px; margin-bottom: 0px; }
 
   .home-center-image {
-    width: 88% !important;
+    /* width: 88% !important; */
+    width: 85% !important;
     display: block;
-    margin: -95px auto 0px auto;
+    /* margin: -95px auto 0px auto; */
+    margin: 0px auto 12px auto;
     overflow: hidden;
   }
 
   .home-banner-top {
-    height: 768px;
+    /* height: 768px; */
 }
+
+@media (max-width:449px){
+  .home-app-link40 {
+    margin-top: 3rem;
+  }
+  .home-center-image{
+    margin: 0 auto 0 auto;
+  }
+
+  .carousel-control-prev{
+    /* display: none; */
+  }
+
+  .carousel-control-next{
+    /* display: none; */
+  }
+
+  .slider-background {
+    padding: 4px 4px;    
+  }
+
+  .slider-background h3{
+    font-size: 16px;
+  }
+
+  .slider-background p {
+    font-size: 11px;
+  }
+
+  .carousel{
+    margin-top: 8px;
+  }
+
+  .carousel-inner {
+    /* width: 375px;
+    margin-left: -32px; */
+    /* margin-left: -15%; */
+    /* margin-right: -15%; */
+  }
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+
+@media only screen and (min-device-width: 812px) and (max-device-width: 894px) {
+  .home-center-image {
+    margin: -56px auto 0 auto;
+    width: 94% !important;
+  }
+  .slider-background {
+    padding: 4px 4px;    
+  }
+
+  .slider-background h3{
+    font-size: 16px;
+  }
+
+  .slider-background p {
+    font-size: 11px;
+  }
+
+  .carousel{
+    margin-top: 8px;
+  }
+
+  .home-banner-top {
+    height: 370px;
+  }
+
+  .home-app-link40 {
+    margin-top: 1rem;
+    font-size: 20px;
+  }
+
+  .new-how-but-home-top{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (min-device-width: 894px) and (max-device-width: 898px) {
+  .home-center-image {
+    margin: -90px auto 0 auto;
+    width: 94% !important;
+  }
+  .slider-background {
+    padding: 4px 4px;    
+  }
+
+  .slider-background h3{
+    font-size: 16px;
+  }
+
+  .slider-background p {
+    font-size: 11px;
+  }
+
+  .carousel{
+    margin-top: 8px;
+  }
+
+  .home-banner-top {
+    height: 370px;
+  }
+
+  .home-app-link40 {
+    margin-top: 1rem;
+    font-size: 20px;
+  }
+
+  .new-how-but-home-top{
+    font-size: 15px;
+  }
+}
+@media only screen and (min-device-width : 739px) and (max-device-width : 811px) {
+  .home-banner-top {
+    height: 370px;
+  }
+
+  .home-app-link40 {
+    margin-top: 1rem;
+    font-size: 20px;
+  }
+  .home-center-image{
+    margin: -37px auto 0 auto;
+    width: 94% !important;
+  }
+
+  .new-how-but-home-top{
+    font-size: 15px;
+  }
+
+  .carousel-control-prev{
+    /* display: none; */
+  }
+
+  .carousel-control-next{
+    /* display: none; */
+  }
+
+  .slider-background {
+    padding: 4px 4px;    
+  }
+
+  .slider-background h3{
+    font-size: 16px;
+  }
+
+  .slider-background p {
+    font-size: 11px;
+  }
+
+  .carousel{
+    margin-top: 8px;
+  }
+
+  .carousel-inner {
+    /* width: 375px;
+    margin-left: -32px; */
+    /* margin-left: -15%; */
+    /* margin-right: -15%; */
+  }
+}
+  
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  /* Styles */
+  }

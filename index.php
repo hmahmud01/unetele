@@ -19,7 +19,7 @@ $result = $conn->query($sql);
 					<div class="col-sm-12 col-md-12 col-lg-12">
 						<P class="home-top-til">LET'S GET YOU BETTER</p>
 					</div>
-				</div>
+				</div>1
 			</div>
 		</div>        
 		<div class="container-fluid home-top-style2">
